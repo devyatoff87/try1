@@ -1,8 +1,17 @@
-body.light-theme {
+.dark-theme {
+    background-color: rgb(25, 16, 43);
+    color: rgb(205, 205, 205);
+}
+
+.dark-theme a {
+    color: rgb(205, 205, 205);
+}
+
+.light-theme {
     background-color: rgb(236, 236, 236);
     color: rgb(84, 84, 84);
 }
 
-a {
+.light-theme a {
     color: rgb(84, 84, 84);
 }
